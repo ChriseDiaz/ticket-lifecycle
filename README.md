@@ -33,51 +33,39 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1.Admin/Analyst Login Page and End Users osTicket URL:
-
-Admin/Analyst Login: http://localhost/osTicket/scp/login.php
+1. Login and Overview:
+  
+Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
 
 End Users osTicket URL: http://localhost/osTicket
-
-2.Lab Objective:
-
-Create tickets as an end user.
-Observe ticket properties and respond to them as help desk professionals.
-
-3.Actions as Admin:
-
-Change the SysAdmins Department to a Top-Level Department.
-Delete the Maintenance Department (not archive, permanent deletion).
-
-4.Ticket Creation and Observation (End-User):
-
-Ticket 1: Issue: Mobile/Online Banking System is Down.
-
-Help Desk Agent (john): Observe ticket properties:
+  
+2. Admin Actions:
+Change the SysAdmins Department:
+Convert the SysAdmins department to a Top-Level Department.
+Delete the Maintenance Department:
+Permanently delete (not archive) the Maintenance Department.
+  
+3. End-User Actions:
+Create a Ticket (End-User):
+Issue: "Entire mobile/online banking system is down."
+  
+4. Help Desk Agent (john) Actions:
+Observe Ticket Properties: After the ticket is created by the end user, as john (Help Desk Agent), you will observe the following ticket properties:
 Priority
 Department
-SLA
+SLA (Service Level Agreement)
 Assigned To
-Set Properties for this ticket:
+Set Ticket Properties:
 Priority: Sev-A (1 hour, 24/7)
 Department: Online Banking Department
-Attempt to observe ticket again as “john”. Can changes be viewed or made?
-Work on Ticket as Jane: Resolve and complete the ticket.
-
-5.Ticket Creation and Observation (End-User):
-
-Ticket 2: Issue: Accounting Department Needs Adobe Upgrade (Broken).
-Help Desk Agent (john): Observe ticket properties:
-Priority
-Department
-SLA
-Assigned To
-Set Properties for this ticket:
-Priority: Sev-B (4 hours, 24/7)
-Department: Support
-Work on Ticket as john: Resolve and complete the ticket.
-
-These steps focus on handling ticket management in osTicket by both end users and help desk agents. You'll be involved in both creating and managing tickets, adjusting their properties, and simulating real-world help desk processes to resolve issues.
+  
+5. Attempt to Re-Observe Ticket:
+After setting the properties, try to observe or modify the ticket again as john. Check if you are able to view or change the ticket after altering its properties.
+  
+6. Resolve Ticket as "jane":
+Work on the ticket and resolve it to completion as jane.
+  
+This lab involves creating tickets, modifying their properties as a help desk agent, and resolving the issues by changing ticket statuses, priorities, and departments. It also includes administering certain backend tasks like adjusting department settings and deleting departments in the system.
 </p>
 <br />
 
