@@ -74,7 +74,9 @@ This lab involves creating tickets, modifying their properties as a help desk ag
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Image](https://github.com/user-attachments/assets/1aeae9bd-858c-4b9f-b4cf-0fa7182803da)
+
 </p>
 <p>
 Ticket 2: Accounting Department Needs Adobe Upgrade
@@ -86,6 +88,12 @@ Help Desk Agent (John) Action: Observed the ticket's properties, including prior
 Ticket Update: John worked on the ticket, performing the necessary upgrade to Adobe software.
 
 Resolution: The issue was resolved successfully by John.
+
+<p>
+  
+![Image](https://github.com/user-attachments/assets/1aeae9bd-858c-4b9f-b4cf-0fa7182803da)
+
+</p>
 
 Ticket 3: CFO’s Laptop Will No Longer Turn On
 
