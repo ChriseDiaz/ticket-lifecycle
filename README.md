@@ -91,7 +91,7 @@ Resolution: The issue was resolved successfully by John.
 
 <p>
   
-![Image](https://github.com/user-attachments/assets/1aeae9bd-858c-4b9f-b4cf-0fa7182803da)
+![Image](https://github.com/user-attachments/assets/cd3febaa-efa2-43bd-948b-f48e4dbd4952)
 
 </p>
 
